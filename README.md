@@ -1,21 +1,23 @@
-# Linux Invasion: System Administration & DevOps
+# Linux Automation Projects
 
-Welcome to my central hub for Linux automation! This repository documents my journey toward becoming a professional DevOps Engineer. 
+My personal collection of Bash scripts and Linux automation tools while learning DevOps.
 
-## Project: System Sentinel
-The first script in this repo is `system_check.sh`. 
+### 🎯 Goal
+Building strong foundations in Linux, Bash scripting, and system automation on my way to becoming a professional DevOps Engineer.
 
-### What it does:
-- Checks the current logged-in **User**.
-- Displays the **OS Kernel** version.
-- Provides real-time **Memory (RAM)** usage.
-- Shows available **Disk Space**.
+### 📂 Current Projects
 
-### How to Run it:
-1. Clone the repo: `git clone https://github.com/m-adell/Linux-invasion.git`
-2. Give execution permission: `chmod +x system_check.sh`
-3. Run the script: `./system_check.sh`
+#### 1. System Sentinel (system_check.sh)
+*What it does:*
+- Checks the current logged-in user
+- Displays OS Kernel version
+- Shows real-time Memory (RAM) usage
+- Displays available Disk Space
 
----
-*Driven by passion for Open Source and Automation.*
+*How to run:*
+```bash
+git clone https://github.com/m-adell/linux-automation-projects.git
+cd linux-automation-projects
+chmod +x system_check.sh
+./system_check.sh
 
