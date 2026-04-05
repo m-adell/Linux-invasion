@@ -1,8 +1,8 @@
-# 🚀 Linux Invasion: System Administration & DevOps
+# Linux Invasion: System Administration & DevOps
 
 Welcome to my central hub for Linux automation! This repository documents my journey toward becoming a professional DevOps Engineer. 
 
-## 🛠️ Project: System Sentinel
+## Project: System Sentinel
 The first script in this repo is `system_check.sh`. 
 
 ### What it does:
@@ -17,5 +17,5 @@ The first script in this repo is `system_check.sh`.
 3. Run the script: `./system_check.sh`
 
 ---
-*Driven by passion for Open Source and Automation.* 🐧
+*Driven by passion for Open Source and Automation.*
 
