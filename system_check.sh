@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "--- 🚀 System Sentinel Report ---"
+echo "--- System Sentinel Report ---"
 echo "Current User: $(whoami)"
 echo "OS Version: $(uname -sr)"
 echo "Memory Usage:"
